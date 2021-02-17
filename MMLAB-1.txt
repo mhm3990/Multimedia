@@ -1,5 +1,0 @@
-Lab Assignment-1
-
-Name: Mahmudul Hassan Mahadi ID:390
-
-Objective: Here i develop a new typeface for ( অ and ক )in H980x unicode using Font forge tool and attached the file.
